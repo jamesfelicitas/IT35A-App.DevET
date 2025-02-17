@@ -1,19 +1,18 @@
 IvanAcademix 
 
 Goals
-IvanAcademix is a web and mobile-based learning platform designed to enhance education and career development by providing students with accessible learning resources, mentorship opportunities, and skill-building programs. 
+IvanAcademix is a web based learning platform designed to enhance education and career development by providing students with accessible learning resources, mentorship opportunities, and skill-building programs. 
 The platform aims to bridge the gap between education and employment, ensuring that students and young professionals gain practical knowledge, technical expertise, and career readiness to succeed in today’s workforce.
 
 Roles
-As a web and mobile app developer, my role is to design an application that integrates educational content, mentorship programs, and career development tools to support students and young professionals in their learning and employment journey.
+As a web developer, my role is to design an application that integrates educational content, mentorship programs, and career development tools to support students and young professionals in their learning and employment journey.
 
 Audience
 The target audience includes:
 
 Students (High School, College, and Vocational Training) who need educational support and career preparation.
-Fresh Graduates and Job Seekers looking for upskilling and professional development.
-Educators and Mentors who want to provide guidance and support.
-Employers and Industry Professionals seeking skilled candidates for internships and jobs.
+Fresh Graduates and Job Seekers looking for upskilling and professional development
+
 
 Situation
 Many students struggle with limited access to quality education, career mentorship, and job skills training. Graduates often lack the necessary experience or employable skills, leading to underemployment or difficulty securing jobs.
@@ -27,9 +26,7 @@ IvanAcademix is an interactive learning and career development platform that off
 IvanAcademix’s objective is to:
 
 Improve access to quality education through digital learning resources.
-Provide career guidance through mentorship and professional development programs.
 Offer certification courses in various fields to enhance job readiness.
-Connect students with internship and job opportunities to support career growth.
 
 2. Key SDGs Targeted
 SDG 4 (Quality Education): IvanAcademix promotes accessible and inclusive education, helping students develop essential knowledge and skills.
@@ -37,9 +34,7 @@ SDG 8 (Decent Work and Economic Growth): The platform bridges the education-to-e
 
 3. Key Features
 Digital Learning Modules: Comprehensive educational content in STEM, business, IT, and communication skills.
-Mentorship Program: Students can connect with professionals, educators, and industry experts for career guidance.
 Skill Certification Courses: Short-term courses in technical and soft skills with certificates upon completion.
-Internship & Job Matching: Students can access internship opportunities and entry-level job listings to gain practical experience.
 Resume Builder & Career Development Resources: Guides on resume writing, interview preparation, and workplace skills.
 
 4. Technical Architecture
