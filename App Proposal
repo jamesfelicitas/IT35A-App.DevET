@@ -26,16 +26,18 @@ IvanAcademix is an interactive learning and career development platform that off
 IvanAcademix’s objective is to:
 
 Improve access to quality education through digital learning resources.
-Offer certification courses in various fields to enhance job readiness.
+Offer certification courses in  to enhance job readiness.
+Provide job readiness tips, including resume building, and interview preparation, and to help learners transition into the workforce.
+
 
 2. Key SDGs Targeted
 SDG 4 (Quality Education): IvanAcademix promotes accessible and inclusive education, helping students develop essential knowledge and skills.
 SDG 8 (Decent Work and Economic Growth): The platform bridges the education-to-employment gap by offering skill-building courses and career development resources.
 
 3. Key Features
-Digital Learning Modules: Comprehensive educational content in STEM, business, IT, and communication skills.
+Digital Learning Modules: Course that will help learners to upskill.
 Skill Certification Courses: Short-term courses in technical and soft skills with certificates upon completion.
-Resume Builder & Career Development Resources: Guides on resume writing, interview preparation, and workplace skills.
+Resume Builder Career Development Resources: Guides on resume writing, and interview preparation.
 
 4. Technical Architecture
 IvanAcademix will be developed using:
