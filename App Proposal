@@ -40,7 +40,7 @@ Resume Builder & Career Development Resources: Guides on resume writing, intervi
 4. Technical Architecture
 IvanAcademix will be developed using:
 
-Frontend: React.js (web) & React Native (mobile)
+Frontend: Ionic React (web) 
 Backend: Node.js 
 Database: SQL for storing user progress and course data
 Cloud Hosting: AWS for scalability
